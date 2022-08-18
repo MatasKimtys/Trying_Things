@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\matas\Documents\GitHub\MarshForward\MarshForward\MarshForward\main.cpp(10,10): warning C4101: 'c_ticks': unreferenced local variable
+C:\Users\matas\Documents\GitHub\MarshForward\MarshForward\MarshForward\main.cpp(10,19): warning C4101: 'd_ticks': unreferenced local variable
+  Window.cpp
+C:\Users\matas\Documents\GitHub\MarshForward\MarshForward\MarshForward\Window.cpp(45,34): error C2111: '+': pointer addition requires integral operand
+C:\Users\matas\Documents\GitHub\MarshForward\MarshForward\MarshForward\Window.cpp(42,11): error C2660: 'CreateWindowExW': function does not take 11 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4432,1): message : see declaration of 'CreateWindowExW'
+  Generating Code...
